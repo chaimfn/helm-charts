@@ -9,6 +9,6 @@ entries:
     name: helm-chart-test
     type: application
     urls:
-    - helm-chart-test-0.1.0.tgz
+    -  https://chaimfn.github.io/helm-charts/helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2022-05-09T16:58:09.6688016+03:00"
